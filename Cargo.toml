@@ -1,0 +1,14 @@
+[package]
+name = "0xV4N17Y-R4V3R"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+dotenv = "0.15"
+rand = "0.8"
+ethereum-types = "0.12"
+sha3 = "0.10"
+hex = "0.4"
+elliptic-curve = "0.14.0-rc.16"
+sec1 = "0.8.0-rc.10"
+k256 = "0.13.4"
