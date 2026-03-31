@@ -5,13 +5,8 @@ Forge your digital identity with precision and rage.
 
 ![Rust](https://img.shields.io/badge/Rust-1.70+-orange?logo=rust) ![License](https://img.shields.io/badge/license-MIT-blue) ![Status](https://img.shields.io/badge/status-alpha-red)
 
-ascii
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-█ 0x64D3........................23f4 █
-▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
-▲ That's the only address I need. The rest can burn.
 
-0xV4N17Y-R4V3R is a minimal, high-performance, configurable Ethereum vanity address generator built in Rust. Define your desired prefix and suffix via .env, then brute-force until destiny matches your hash.
+V4N17Y-R4V3R is a minimal, high-performance, configurable Ethereum vanity address generator built in Rust. Define your desired prefix and suffix via .env, then brute-force until destiny matches your hash.
 You're not generating an address.
 You're forging an identity.
 
