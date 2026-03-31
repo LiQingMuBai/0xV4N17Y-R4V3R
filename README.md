@@ -11,10 +11,15 @@ You're not generating an address.
 You're forging an identity.
 
 🔥 Features
+
 ✅ Configurable via .env — set PREFIX and SUFFIX in seconds
+
 ✅ Pure Rust — no Node.js, no Python, just metal and math
+
 ✅ Lightweight & Fast — powered by k256 and sha3, zero bloat
+
 ✅ Cyberpunk Ethos — CLI as cathedral, brute force as art
+
 ✅ Offline Key Generation — your private keys never touch the network
 
 🛠 Installation & Build
